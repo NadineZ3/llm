@@ -63,7 +63,7 @@ The backend server will start running on `http://localhost:8000`.
   npm run start
   ```
 
-The React development server will start running on `http://localhost:3000`.
+The React development server will start running on `http://localhost::5173`.
 
 3. Open your browser and visit `http://localhost:3000` to access the chat bot application.
 
