@@ -18,7 +18,7 @@ This is a simple chat bot application that allows users to send messages to a la
 2. Frontend Setup:
 - Navigate to the `frontend` directory:
   ```
-  cd frontend
+  cd front_app
   ```
 
 - Install the dependencies:
