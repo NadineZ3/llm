@@ -47,7 +47,7 @@ This is a simple chat bot application that allows users to send messages to a la
 
 - Run the FastAPI server:
   ```
-  uvicorn app:app --reload
+  python app.py
   ```
 
 The backend server will start running on `http://localhost:8000`.
@@ -55,7 +55,7 @@ The backend server will start running on `http://localhost:8000`.
 2. Start the frontend development server:
 - Navigate to the `frontend` directory:
   ```
-  cd frontend
+  cd front_app
   ```
 
 - Start the development server:
@@ -65,7 +65,7 @@ The backend server will start running on `http://localhost:8000`.
 
 The React development server will start running on `http://localhost::5173`.
 
-3. Open your browser and visit `http://localhost:3000` to access the chat bot application.
+3. Open your browser and visit `http://localhost:5173` to access the chat bot application.
 
 ## Customization
 
